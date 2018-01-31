@@ -1,7 +1,10 @@
-# k-means-segmentation
+# Image Segmentation Using k-Means Clustering
+
 A demonstration of image segmentation using k-means clustering. Various
 examples and a detailed tutorial on the implementation can be found
-[here](http://sighack.com/post/generative-value-sketches-using-k-means-clustering)
+[here](http://sighack.com/post/image-based-palettes-using-k-means-clustering)
+
+Examples of generating image-based palettes can be found [here]()
 
 |                                   |                                  |
 |-----------------------------------|----------------------------------|
